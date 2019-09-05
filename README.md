@@ -2,9 +2,10 @@
 
 Thank you for visiting my page.  Please bookmark this page to view the future projects that I am currently working on.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
+```markdown
+1. Hello World Project
+```
 
 ```markdown
 Syntax highlighted code block
