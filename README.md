@@ -1,8 +1,6 @@
 ## Welcome to Chandler Broadwater's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/crbroadwater/crbroadwater.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for visiting my page.  Please bookmark this page to view the future projects that I am currently working on.
 
 ### Markdown
 
